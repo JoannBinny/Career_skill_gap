@@ -7,7 +7,6 @@ DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "job_roles.json"
 
 def load_job_roles() -> list[dict]:
     """Load job roles from the development dataset."""
-
     with open(DATA_FILE, "r", encoding="utf-8") as file:
         return json.load(file)
 
