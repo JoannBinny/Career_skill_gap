@@ -1,0 +1,73 @@
+[
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "description": "Analyzes data and builds statistical and machine learning solutions.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Pandas",
+      "NumPy",
+      "Machine Learning",
+      "Data Visualization"
+    ]
+  },
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "description": "Develops, trains, evaluates, and deploys machine learning systems.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "SQL",
+      "Git",
+      "Docker",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": "backend-developer",
+    "title": "Backend Developer",
+    "description": "Builds server-side applications, APIs, and database-backed systems.",
+    "skills": [
+      "Python",
+      "REST API",
+      "SQL",
+      "Git",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "description": "Develops both frontend and backend components of web applications.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Python",
+      "REST API",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "software-developer",
+    "title": "Software Developer",
+    "description": "Designs and develops software applications using programming and computer science fundamentals.",
+    "skills": [
+      "Python",
+      "Java",
+      "Data Structures and Algorithms",
+      "Object-Oriented Programming",
+      "SQL",
+      "Git",
+      "DBMS"
+    ]
+  }
+]

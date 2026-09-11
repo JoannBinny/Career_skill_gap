@@ -1,0 +1,42 @@
+[
+  {
+    "id": "course-statistics-001",
+    "title": "Statistics Fundamentals",
+    "provider": "Khan Academy",
+    "description": "Learn the fundamentals of statistics, including descriptive statistics, probability, distributions, and statistical reasoning.",
+    "skills": ["Statistics"],
+    "url": "https://www.khanacademy.org/math/statistics-probability"
+  },
+  {
+    "id": "course-pandas-001",
+    "title": "Pandas Documentation and User Guide",
+    "provider": "pandas",
+    "description": "Learn how to use pandas for data manipulation, data cleaning, analysis, indexing, grouping, and working with tabular datasets.",
+    "skills": ["Pandas", "Data Analysis"],
+    "url": "https://pandas.pydata.org/docs/user_guide/"
+  },
+  {
+    "id": "course-numpy-001",
+    "title": "NumPy User Guide",
+    "provider": "NumPy",
+    "description": "Learn numerical computing with NumPy, including arrays, indexing, mathematical operations, linear algebra, and numerical data processing.",
+    "skills": ["NumPy"],
+    "url": "https://numpy.org/doc/stable/user/"
+  },
+  {
+    "id": "course-ml-001",
+    "title": "Machine Learning with Scikit-learn",
+    "provider": "scikit-learn",
+    "description": "Learn machine learning concepts and practical model development using scikit-learn, including supervised learning, preprocessing, model evaluation, and pipelines.",
+    "skills": ["Machine Learning", "Scikit-learn"],
+    "url": "https://scikit-learn.org/stable/user_guide.html"
+  },
+  {
+    "id": "course-python-001",
+    "title": "Python Documentation",
+    "provider": "Python",
+    "description": "Learn Python programming fundamentals, language features, standard library functionality, and practical programming concepts.",
+    "skills": ["Python"],
+    "url": "https://docs.python.org/3/tutorial/"
+  }
+]
